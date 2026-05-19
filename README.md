@@ -1,4 +1,4 @@
-# WN Conseil — Site WordPress
+# WN Conseil — Projet WordPress
 
 ## URL site :
 - https://wnconseil.fr/
